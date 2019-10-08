@@ -1,2 +1,2 @@
 # MyFirst
-First git project
+第一个Java Hello world程序
